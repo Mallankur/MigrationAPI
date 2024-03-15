@@ -1,0 +1,6 @@
+@Revamp_Ank_App_HostAddress = http://localhost:5021
+
+GET {{Revamp_Ank_App_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
