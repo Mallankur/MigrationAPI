@@ -1,0 +1,244 @@
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\appsettings.json
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.exe
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.deps.json
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.runtimeconfig.json
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.pdb
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\IdentityServer4.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\IdentityServer4.Storage.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.csproj.AssemblyReference.cache
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.AssemblyInfoInputs.cache
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.AssemblyInfo.cs
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.csproj.CoreCompileInputs.cache
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.sourcelink.json
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.OCTASERVER.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.build.OCTASERVER.props
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OCTASERVER.props
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OCTASERVER.props
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\scopedcss\bundle\OCTASERVER.styles.css
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.csproj.CopyComplete
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\refint\OCTASERVER.dll
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.pdb
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.genruntimeconfig.cache
+C:\Users\ankur\Desktop\Ankur_PreProd_Clude_App\Revamp_Version_1.2\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\ref\OCTASERVER.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\appsettings.json
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.exe
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.deps.json
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.runtimeconfig.json
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.pdb
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\IdentityServer4.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\IdentityServer4.Storage.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.csproj.AssemblyReference.cache
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.AssemblyInfoInputs.cache
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.AssemblyInfo.cs
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.csproj.CoreCompileInputs.cache
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.sourcelink.json
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.OCTASERVER.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.build.OCTASERVER.props
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OCTASERVER.props
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OCTASERVER.props
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\scopedcss\bundle\OCTASERVER.styles.css
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.csproj.CopyComplete
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\refint\OCTASERVER.dll
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.pdb
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.genruntimeconfig.cache
+C:\Users\ankur\Desktop\preprodRevamp\Revamp_Version_1.2_26_12_2023\RevampWebApp_v.3.0Rd12_21_23\Revamp_v2.2\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\ref\OCTASERVER.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\appsettings.json
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.exe
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.deps.json
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.runtimeconfig.json
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.pdb
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\IdentityServer4.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\IdentityServer4.Storage.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.csproj.AssemblyReference.cache
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.AssemblyInfoInputs.cache
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.AssemblyInfo.cs
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.csproj.CoreCompileInputs.cache
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.OCTASERVER.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.build.OCTASERVER.props
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OCTASERVER.props
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OCTASERVER.props
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\scopedcss\bundle\OCTASERVER.styles.css
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.csproj.CopyComplete
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\refint\OCTASERVER.dll
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.pdb
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.genruntimeconfig.cache
+C:\Users\ankur\Desktop\AnkurAvinex_G24_Prod\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\ref\OCTASERVER.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\appsettings.json
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.exe
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.deps.json
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.runtimeconfig.json
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.pdb
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\IdentityServer4.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\IdentityServer4.Storage.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.csproj.AssemblyReference.cache
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.AssemblyInfoInputs.cache
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.AssemblyInfo.cs
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.csproj.CoreCompileInputs.cache
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.sourcelink.json
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.OCTASERVER.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.build.OCTASERVER.props
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OCTASERVER.props
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OCTASERVER.props
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\scopedcss\bundle\OCTASERVER.styles.css
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.csproj.Up2Date
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\refint\OCTASERVER.dll
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.pdb
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.genruntimeconfig.cache
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\ref\OCTASERVER.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\appsettings.json
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.exe
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.deps.json
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.runtimeconfig.json
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\OCTASERVER.pdb
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\IdentityModel.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\IdentityServer4.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\IdentityServer4.Storage.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.OpenIdConnect.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Newtonsoft.Json.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\Serilog.Sinks.File.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.csproj.AssemblyReference.cache
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.AssemblyInfoInputs.cache
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.AssemblyInfo.cs
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.csproj.CoreCompileInputs.cache
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.sourcelink.json
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.OCTASERVER.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.build.OCTASERVER.props
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.OCTASERVER.props
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.OCTASERVER.props
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\scopedcss\bundle\OCTASERVER.styles.css
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.csproj.Up2Date
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\refint\OCTASERVER.dll
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.pdb
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\OCTASERVER.genruntimeconfig.cache
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevamoOctaIDServer\OCTASERVER\obj\Debug\net8.0\ref\OCTASERVER.dll

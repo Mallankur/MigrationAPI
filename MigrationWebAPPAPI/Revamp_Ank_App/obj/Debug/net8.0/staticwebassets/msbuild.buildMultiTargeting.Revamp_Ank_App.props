@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Revamp_Ank_App.props" />
+</Project>

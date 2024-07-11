@@ -1,0 +1,184 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|c:\\users\\ankur\\desktop\\mgapi\\migrationapi\\web_app_revamp_v2.3_26_12_23\\revamp_ank_app\\ankur.revamp.infrastructure\\repositories\\revamprepositoryankurservises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|solutionrelative:revamp_ank_app\\ankur.revamp.infrastructure\\repositories\\revamprepositoryankurservises.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|c:\\users\\ankur\\desktop\\mgapi\\migrationapi\\web_app_revamp_v2.3_26_12_23\\revamp_ank_app\\client\\excelmigration\\iexeclsheetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|solutionrelative:revamp_ank_app\\client\\excelmigration\\iexeclsheetreader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ankur\\Desktop\\CansolvDataMigration\\DATASTREMMING_OF_DIFFERNT_POINT\\DATASTREMMING_OF_DIFFERNT_POINT\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|c:\\users\\ankur\\desktop\\mgapi\\migrationapi\\web_app_revamp_v2.3_26_12_23\\revamp_ank_app\\revamp_ank_app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|solutionrelative:revamp_ank_app\\revamp_ank_app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|c:\\users\\ankur\\desktop\\mgapi\\migrationapi\\web_app_revamp_v2.3_26_12_23\\revamp_ank_app\\client\\revampdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|solutionrelative:revamp_ank_app\\client\\revampdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ankur\\Desktop\\CansolvAPI\\CansolveANK.deps.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|c:\\users\\ankur\\desktop\\mgapi\\migrationapi\\web_app_revamp_v2.3_26_12_23\\revamp_ank_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|solutionrelative:revamp_ank_app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|c:\\users\\ankur\\desktop\\mgapi\\migrationapi\\web_app_revamp_v2.3_26_12_23\\revamp_ank_app\\controllers\\ankur.revamp.controller\\revampcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|solutionrelative:revamp_ank_app\\controllers\\ankur.revamp.controller\\revampcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|c:\\users\\ankur\\desktop\\mgapi\\migrationapi\\web_app_revamp_v2.3_26_12_23\\revamp_ank_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|solutionrelative:revamp_ank_app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|c:\\users\\ankur\\desktop\\mgapi\\migrationapi\\web_app_revamp_v2.3_26_12_23\\revamp_ank_app\\revamp_ank_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{52C81BFB-AEC6-4D1F-8A15-D6F9ED9E1B72}|Revamp_Ank_App\\Revamp_Ank_App.csproj|solutionrelative:revamp_ank_app\\revamp_ank_app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IExeclSheetReader.cs",
+              "DocumentMoniker": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\Client\\ExcelMigration\\IExeclSheetReader.cs",
+              "RelativeDocumentMoniker": "Revamp_Ank_App\\Client\\ExcelMigration\\IExeclSheetReader.cs",
+              "ToolTip": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\Client\\ExcelMigration\\IExeclSheetReader.cs",
+              "RelativeToolTip": "Revamp_Ank_App\\Client\\ExcelMigration\\IExeclSheetReader.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T07:17:24.624Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankur\\Desktop\\CansolvDataMigration\\DATASTREMMING_OF_DIFFERNT_POINT\\DATASTREMMING_OF_DIFFERNT_POINT\\Program.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\CansolvDataMigration\\DATASTREMMING_OF_DIFFERNT_POINT\\DATASTREMMING_OF_DIFFERNT_POINT\\Program.cs",
+              "ToolTip": "C:\\Users\\ankur\\Desktop\\CansolvDataMigration\\DATASTREMMING_OF_DIFFERNT_POINT\\DATASTREMMING_OF_DIFFERNT_POINT\\Program.cs",
+              "RelativeToolTip": "..\\..\\..\\CansolvDataMigration\\DATASTREMMING_OF_DIFFERNT_POINT\\DATASTREMMING_OF_DIFFERNT_POINT\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAADsAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-11T05:08:14.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CansolveANK.deps.json",
+              "DocumentMoniker": "C:\\Users\\ankur\\Desktop\\CansolvAPI\\CansolveANK.deps.json",
+              "RelativeDocumentMoniker": "..\\..\\..\\CansolvAPI\\CansolveANK.deps.json",
+              "ToolTip": "C:\\Users\\ankur\\Desktop\\CansolvAPI\\CansolveANK.deps.json",
+              "RelativeToolTip": "..\\..\\..\\CansolvAPI\\CansolveANK.deps.json",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-10T09:29:46.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RevampRepositoryAnkurServises.cs",
+              "DocumentMoniker": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\Ankur.Revamp.Infrastructure\\Repositories\\RevampRepositoryAnkurServises.cs",
+              "RelativeDocumentMoniker": "Revamp_Ank_App\\Ankur.Revamp.Infrastructure\\Repositories\\RevampRepositoryAnkurServises.cs",
+              "ToolTip": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\Ankur.Revamp.Infrastructure\\Repositories\\RevampRepositoryAnkurServises.cs",
+              "RelativeToolTip": "Revamp_Ank_App\\Ankur.Revamp.Infrastructure\\Repositories\\RevampRepositoryAnkurServises.cs",
+              "ViewState": "AQIAAD4AAAAAAAAAAAAIwHkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:47:12.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RevampDocument.cs",
+              "DocumentMoniker": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\Client\\RevampDocument.cs",
+              "RelativeDocumentMoniker": "Revamp_Ank_App\\Client\\RevampDocument.cs",
+              "ToolTip": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\Client\\RevampDocument.cs",
+              "RelativeToolTip": "Revamp_Ank_App\\Client\\RevampDocument.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:37:55.335Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RevampController.cs",
+              "DocumentMoniker": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\Controllers\\Ankur.Revamp.Controller\\RevampController.cs",
+              "RelativeDocumentMoniker": "Revamp_Ank_App\\Controllers\\Ankur.Revamp.Controller\\RevampController.cs",
+              "ToolTip": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\Controllers\\Ankur.Revamp.Controller\\RevampController.cs",
+              "RelativeToolTip": "Revamp_Ank_App\\Controllers\\Ankur.Revamp.Controller\\RevampController.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAAAD4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T10:16:01.552Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\appsettings.json",
+              "RelativeDocumentMoniker": "Revamp_Ank_App\\appsettings.json",
+              "ToolTip": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\appsettings.json",
+              "RelativeToolTip": "Revamp_Ank_App\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-09T10:14:19.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Revamp_Ank_App",
+              "DocumentMoniker": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\Revamp_Ank_App.csproj",
+              "RelativeDocumentMoniker": "Revamp_Ank_App\\Revamp_Ank_App.csproj",
+              "ToolTip": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\Revamp_Ank_App.csproj",
+              "RelativeToolTip": "Revamp_Ank_App\\Revamp_Ank_App.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-09T10:12:24.428Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\Program.cs",
+              "RelativeDocumentMoniker": "Revamp_Ank_App\\Program.cs",
+              "ToolTip": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\Program.cs",
+              "RelativeToolTip": "Revamp_Ank_App\\Program.cs",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAD0AAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-16T12:32:56.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Revamp_Ank_App.csproj",
+              "DocumentMoniker": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\Revamp_Ank_App.csproj",
+              "RelativeDocumentMoniker": "Revamp_Ank_App\\Revamp_Ank_App.csproj",
+              "ToolTip": "C:\\Users\\ankur\\Desktop\\MGAPI\\MigrationAPI\\Web_app_Revamp_v2.3_26_12_23\\Revamp_Ank_App\\Revamp_Ank_App.csproj",
+              "RelativeToolTip": "Revamp_Ank_App\\Revamp_Ank_App.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-05-21T08:12:51.166Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

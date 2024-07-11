@@ -1,0 +1,14 @@
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevampTestCase\bin\Debug\net8.0\CoverletSourceRootsMapping_RevampTestCase
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevampTestCase\obj\Debug\net8.0\RevampTestCase.csproj.AssemblyReference.cache
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevampTestCase\obj\Debug\net8.0\RevampTestCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevampTestCase\obj\Debug\net8.0\RevampTestCase.AssemblyInfoInputs.cache
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevampTestCase\obj\Debug\net8.0\RevampTestCase.AssemblyInfo.cs
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevampTestCase\obj\Debug\net8.0\RevampTestCase.csproj.CoreCompileInputs.cache
+C:\Users\ankur\Desktop\Migration API\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevampTestCase\obj\Debug\net8.0\RevampTestCase.sourcelink.json
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevampTestCase\bin\Debug\net8.0\CoverletSourceRootsMapping_RevampTestCase
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevampTestCase\obj\Debug\net8.0\RevampTestCase.csproj.AssemblyReference.cache
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevampTestCase\obj\Debug\net8.0\RevampTestCase.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevampTestCase\obj\Debug\net8.0\RevampTestCase.AssemblyInfoInputs.cache
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevampTestCase\obj\Debug\net8.0\RevampTestCase.AssemblyInfo.cs
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevampTestCase\obj\Debug\net8.0\RevampTestCase.csproj.CoreCompileInputs.cache
+C:\Users\ankur\Desktop\AzureCloudeMigTest01\FinalProdversionMigrationApp\Web_app_Revamp_v2.3_26_12_23\RevampTestCase\obj\Debug\net8.0\RevampTestCase.sourcelink.json
